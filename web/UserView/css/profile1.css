@@ -1,0 +1,32 @@
+.gradient-custom {
+    background: linear-gradient(#4070f4, #a6b9ff);    
+    }
+
+    .btn-grad
+    {
+        background: linear-gradient(#4070f4);
+    }
+
+/* modal styling  */
+        .modal-dialog {
+            height: 90% !important;
+            padding-top:3%;
+
+          }
+         
+          
+          .modal-content {
+            height: 86% !important;
+            overflow:visible;
+            
+          }
+          
+          .modal-body {
+            height:85%;
+            overflow: auto;
+            /* background-color: #4070f4; */
+        }
+        .modal-body label
+        {
+            color: white;
+        }
